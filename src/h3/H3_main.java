@@ -19,5 +19,6 @@ public class H3_main {
         if (!expression1 && !expression2 && !expression3) {
             k = 4;
         }
+        System.out.println(k);
     }
 }

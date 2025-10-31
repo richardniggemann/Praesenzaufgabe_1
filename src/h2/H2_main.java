@@ -9,5 +9,7 @@ public class H2_main {
         Arrays.sort(values);
         min = values[0];
         max = values[values.length - 1];
+        System.out.println("min: " + min);
+        System.out.println("max: " + max);
     }
 }
