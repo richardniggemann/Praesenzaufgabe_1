@@ -6,7 +6,7 @@ public class H3_main {
         boolean expression1 = i > j;
         boolean expression2 = i > 200;
         boolean expression3 = j > 100;
-
+        k = -10;
         if (expression1 && !expression2 && !expression3) {
             k = 1;
         }
